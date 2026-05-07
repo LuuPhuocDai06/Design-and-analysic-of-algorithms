@@ -1,9 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
 using namespace std;
-
 void f() {
     int x;
     if (!(cin >> x)) return;
